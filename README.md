@@ -1,8 +1,8 @@
-## **_Bem vindo ao meu perfil_** 🗣️🔥🔥
+### **_Bem vindo ao meu perfil_** 🗣️🔥🔥
 
 -Meu nome é Arthur Prado, pseudônimo de ArthugoZz 
 
-## **_Sobre mim:_**
+### **_Sobre mim:_**
 
 -No momento estou estudando na [Alura](https://www.alura.com.br).
 
